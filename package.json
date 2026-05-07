@@ -1,15 +1,16 @@
 {
   "name": "devpulse-mcp",
-  "version": "0.1.0",
+  "mcpName": "io.github.tao-izm/devpulse-mcp",
+  "version": "0.1.1",
   "description": "Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your local dev environment — framework, running services, recent errors, git state, and health diagnosis in one call",
   "type": "module",
   "bin": {
-    "devpulse": "./dist/index.js"
+    "devpulse": "dist/index.js"
   },
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tao-izm/devpulse-mcp.git"
+    "url": "git+https://github.com/tao-izm/devpulse-mcp.git"
   },
   "homepage": "https://github.com/tao-izm/devpulse-mcp",
   "bugs": {
