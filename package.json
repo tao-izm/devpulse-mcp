@@ -7,6 +7,14 @@
     "devpulse": "./dist/index.js"
   },
   "main": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tao-izm/devpulse-mcp.git"
+  },
+  "homepage": "https://github.com/tao-izm/devpulse-mcp",
+  "bugs": {
+    "url": "https://github.com/tao-izm/devpulse-mcp/issues"
+  },
   "files": [
     "dist"
   ],
